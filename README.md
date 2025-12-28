@@ -42,12 +42,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshkumarsingh123&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: harshrajputofficial800@gmail.com  
