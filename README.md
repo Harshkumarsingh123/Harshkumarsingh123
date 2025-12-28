@@ -51,6 +51,6 @@
 ## 📫 Connect With Me
 
 - 📧 Email: harshrajputofficial800@gmail.com  
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-kumar-singh-66aa07254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ⭐ *I am actively looking for Java Developer / Backend Developer roles*
