@@ -23,7 +23,7 @@
 - Location-based part-time job marketplace
 - Role-based authentication (Admin / User / Employer)
 - Secure APIs using Spring Security & JWT  
-🔗 Repo: https://github.com/Harshkumarsingh123/local-leap
+🔗 Repo: https://github.com/Harshkumarsingh123/JobMarketplace
 
 ### 🔹 JavaC Tutorial
 **Tech:** HTML | CSS | JavaScript | Vite  
